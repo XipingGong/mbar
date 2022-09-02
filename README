@@ -1,0 +1,16 @@
+MBAR
+----
+
+This notebook introduced the MBAR, including its methodology and how we can use it to
+obtain the unbiased samples.
+Please open the mbar.ipynb file using jupyter-lab.
+
+$ jupyter-lab mbar.ipynb
+
+or firefox
+
+$ firefox mbar.html
+
+which was generated from
+
+$ jupyter nbconvert mbar.ipynb --to html_toc --ExtractOutputPreprocessor.enabled=False
